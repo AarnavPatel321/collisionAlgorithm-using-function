@@ -1,2 +1,2 @@
-# collisionAlgorithm-using-function
-collisionAlgorithm using function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
